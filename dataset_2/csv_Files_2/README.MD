@@ -4,4 +4,4 @@
 2. Notes Extracted -> https://github.com/shikhar-scs/Keldec_dataset/blob/master/dataset_2/csv_Files_2/notesVision.csv
 3. Auto Correct -> https://github.com/shikhar-scs/Keldec_dataset/blob/master/dataset_2/csv_Files_2/auto-correct.csv
 4. Image Labels -> https://github.com/shikhar-scs/Keldec_dataset/blob/master/dataset_2/csv_Files_2/imageLabels.csv
-5. Tech Phrases for this Image ->
+5. Tech Phrases for this Image -> https://github.com/shikhar-scs/Keldec_dataset/blob/master/dataset_2/csv_Files_2/technical_terms_2.csv
