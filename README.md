@@ -13,3 +13,18 @@ https://github.com/shikhar-scs/Keldec_dataset/blob/master/misc/stop_words.csv
 ### Dictionary
 
 https://github.com/shikhar-scs/Keldec_dataset/blob/master/misc/dictionary.csv
+
+### App Screenshots
+
+#### Choose a subject 
+
+![](app_images/0.jpg)
+
+#### Upload notes and images  
+
+![](app_images/1.jpg)
+
+#### Get recommendations 
+
+![](app_images/2.jpg)
+![](app_images/4.jpg)
